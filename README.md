@@ -1,9 +1,10 @@
 # Proyecto Integrador: Directorio de Materias y Docentes (React + Flask + MySQL)
 
 Profesores:
-Federico Navarro - L01330522
 
-Fernando Ramírez - L03555722
+**Federico Navarro - L01330522**
+
+**Fernando Ramírez - L03555722**
 
 ## Descripción del Proyecto
 Este proyecto consiste en una aplicación web completa (Full-Stack) para gestionar un **Directorio de Materias** y los **Docentes** adscritos a ellas. Permite realizar operaciones CRUD completas en ambas entidades e ilustra una arquitectura desacoplada donde el frontend en React consume de forma asíncrona una API REST construida en Flask conectada a una base de datos relacional MySQL.
