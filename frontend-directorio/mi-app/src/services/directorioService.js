@@ -1,4 +1,4 @@
-const URL_BASE = "hhttps://glorious-space-succotash-jgjrvppxjpvcjg49-5173.app.github.dev";
+const URL_BASE = "https://glorious-space-succotash-jgjrvppxjpvcjg49-5000.app.github.dev;
 
 // ==========================================
 // SERVICIOS PARA MATERIAS
