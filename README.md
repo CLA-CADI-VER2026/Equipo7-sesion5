@@ -211,7 +211,7 @@ directorio-workspace/
 │
 └── frontend-directorio/
     ├── .devcontainer/devcontainer.json
-    └── directorio-app/
+    └── mi-app/
         ├── src/
         │   ├── components/
         │   │   ├── DocenteForm.jsx
