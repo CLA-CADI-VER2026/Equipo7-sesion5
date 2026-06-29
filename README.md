@@ -169,8 +169,8 @@ En la terminal de tu segundo Codespace, inicializa la estructura de React de la 
 
 ```bash
 # Crear el andamiaje del proyecto
-npm create vite@latest directorio-app -- --template react
-cd directorio-app
+npm create vite@latest mi-app -- --template react
+cd mi-app
 
 # Instalar los paquetes base
 npm install
